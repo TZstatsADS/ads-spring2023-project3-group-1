@@ -5,7 +5,7 @@
 
 Term: Spring 2023
 
-+ Team ##
++ Team ## Group 1
 + Team members
 	+ Wen Chen
 	+ Chenyi Jiang
