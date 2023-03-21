@@ -7,11 +7,12 @@ Term: Spring 2023
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Wen Chen
+	+ Chenyi Jiang
+	+ Ashwathi Nair
+	+ Hongju Ouyang
+	+ Han Wang
+	+ Zixun Zhang
 
 + Project summary: In this project, we created ...
 	
